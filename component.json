@@ -1,18 +1,15 @@
 {
   "name": "win-publish",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "scripts": [
     "lib/win-publish"
   ],
   "main": "lib/win-publish",
- "remotes": [
+  "remotes": [
     "https://raw.github.com",
     "https://raw.githubusercontent.com"
   ],
-  "dependencies" : {
-  	 "visonmedia/superagent" : "*"
-  },
-  "development" : {
-
+  "dependencies": {
+    "visionmedia/superagent": "*"
   }
 }
