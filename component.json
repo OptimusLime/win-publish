@@ -2,9 +2,9 @@
   "name": "win-publish",
   "version": "0.0.1-1",
   "scripts": [
-    "lib/win-publish"
+    "lib/win-publish.js"
   ],
-  "main": "lib/win-publish",
+  "main": "lib/win-publish.js",
   "remotes": [
     "https://raw.github.com",
     "https://raw.githubusercontent.com"
