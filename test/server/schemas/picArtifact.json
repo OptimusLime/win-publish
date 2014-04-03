@@ -1,0 +1,12 @@
+{
+    "genome":
+        {"type": "String", "ref" : "simpleReference"},
+
+    "meta":
+        {"title": "String",
+        "tags": ["String"],
+        "likeCount": "Number",
+        "likes": ["String"]}
+}
+
+

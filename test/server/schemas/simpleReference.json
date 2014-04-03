@@ -1,0 +1,12 @@
+{
+    "nodes": [{
+        "gid": "String",
+        "nodeType": "String"
+        }],
+    "connections": [{
+        "gid" : "String",
+        "sourceID": "String",
+        "targetID": "String"
+    }]
+}
+
